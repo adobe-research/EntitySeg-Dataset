@@ -1,10 +1,10 @@
-# Entity Segmentation dataset
+# Adobe's Entity Segmentation dataset
 ![image](https://git.corp.adobe.com/storage/user/20377/files/38830169-76e7-4541-874f-8bf5b5d377ac)
 
 This repository provides mask annotations and image URLs for the EntitySeg dataset as described in the ICCV2023 paper:
 
-### High-Quality Entity Segmentation
-Lu Qi, Jason Kuen, Tiancheng Shen, Weidong Guo, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.
+### &emsp; High-Quality Entity Segmentation
+&emsp;&nbsp; Lu Qi, Jason Kuen, Tiancheng Shen, Weidong Guo, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.
 
 ## Download annotation files
 Please refer to `v1.0` tag of this repo.
