@@ -6,6 +6,8 @@ This repository provides mask annotations and image URLs for the EntitySeg datas
 ### High-Quality Entity Segmentation
 Lu Qi, Jason Kuen, Tiancheng Shen, Weidong Guo, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.
 
+## Download annotation files
+Please refer to `v1.0` tag of this repo.
 
 ## Annotation format
 annotations[{<br />
