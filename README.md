@@ -47,4 +47,4 @@ Please cite our ICCV2023 paper if you use the EntitySeg dataset in your work.
 ````
 
 ## License
-This dataset is released under (Adobe Research License)(LICENSE.md). The license prohibits commercial use and allows for non-commercial research use.
+This dataset is released under [Adobe Research License](LICENSE). The license prohibits commercial use and allows for non-commercial research use.
