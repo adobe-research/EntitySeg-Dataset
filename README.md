@@ -9,30 +9,8 @@ This repository provides mask annotations and image URLs for the EntitySeg datas
 ## Download annotation files
 The dataset annotations can be downloaded [here](https://github.com/adobe-research/EntitySeg-Dataset/releases/tag/v1.0).
 
-## Annotation format
-annotations[{<br />
-&emsp;'**area**': int,<br />
-&emsp;'**image_id**': int,<br />
-&emsp;'**bbox**': [x,y,width,height],<br />
-&emsp;'**category_id**': int (class-agnostic),<br />
-&emsp;'**segmentation**': dict (mask annotation in pycocotools RLE format),<br />
-&emsp;'**id**': int,<br />
-&emsp;'**category_id_ori**': str (class-aware),<br />
-}]
-
-images[{<br />
-&emsp;'**file_name**': str,<br />
-&emsp;'**height**': int,<br />
-&emsp;'**width**': int,<br />
-&emsp;'**id**': int,<br />
-&emsp;'**img_source**': str,<br />
-&emsp;'**url_flag**': str,<br />
-&emsp;'**url_dataset**': str,<br />
-&emsp;'**url_image**': str,<br />
-}]
-
 ## Download images
-Images can be downloaded through the image source entries and/or URLs that we provide in the annotation files.
+Images can be downloaded through the image source entries and/or URLs that we provide `url.json`. Alternatively, you may obtain the pre-downloaded images from a third-party source. Please note that we do not own the images. You should check the original licenses of the images before using them. Any use of the images are at your own discretion and risk.
 
 ## Citation
 Please cite our ICCV2023 paper if you use the EntitySeg dataset in your work.
