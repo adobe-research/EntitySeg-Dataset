@@ -7,7 +7,7 @@ This repository provides mask annotations and image URLs for the EntitySeg datas
 &emsp;&nbsp; Lu Qi, Jason Kuen, Tiancheng Shen, Weidong Guo, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.
 
 ## Download annotation files
-Please refer to `v1.0` release of this repo.
+The dataset annotations can be downloaded [here](https://github.com/adobe-research/EntitySeg-Dataset/releases/tag/v1.0).
 
 ## Annotation format
 annotations[{<br />
