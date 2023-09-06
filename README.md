@@ -4,7 +4,7 @@
 This repository provides mask annotations and image URLs for the EntitySeg dataset as described in the ICCV2023 paper:
 
 ### &emsp; High-Quality Entity Segmentation
-&emsp;&nbsp; Lu Qi, Jason Kuen, Tiancheng Shen, Weidong Guo, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.
+&emsp;&nbsp; Lu Qi, Jason Kuen, Tiancheng Shen, Weidong Guo, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang
 
 ## Download annotation files
 The dataset annotations can be downloaded [here](https://github.com/adobe-research/EntitySeg-Dataset/releases/tag/v1.0).
