@@ -16,7 +16,7 @@ Images can be downloaded through the image source entries and/or URLs that we pr
 Please cite our ICCV2023 paper if you use the EntitySeg dataset in your work.
 ````
 @InProceedings{Qi_2023_EntitySeg,
-    author    = {Qi, Lu and Kuen, Jason and Shen, Tiancheng and Gu, Jiuxiang and Guo, Weidong and Li, Wenbo and Jia, Jiaya and Lin, Zhe and Yang, Ming-Hsuan},
+    author    = {Qi, Lu and Kuen, Jason and Shen, Tiancheng and Gu, Jiuxiang and Guo, Weidong and Jia, Jiaya and Lin, Zhe and Yang, Ming-Hsuan},
     title     = {High-Quality Entity Segmentation},
     booktitle = {International Conference on Computer Vision (ICCV)},
     month     = {October},
