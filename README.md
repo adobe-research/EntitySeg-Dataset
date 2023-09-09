@@ -10,7 +10,10 @@ This repository provides mask annotations and image URLs for the EntitySeg datas
 The dataset annotations can be downloaded [here](https://github.com/adobe-research/EntitySeg-Dataset/releases/tag/v1.0).
 
 ## Download images
-Images can be downloaded through the image source entries and/or URLs that we provide in `url.json`. Alternatively, you may obtain the images which are pre-downloaded based on `url.json` from an [independent source](https://github.com/qqlu/Entity/tree/main/Entityv2). Please note that we do not own the copyright of the images. It is solely your responsibility to check the original licenses of the images before using them. Any use of the images are at your own discretion and risk.
+Images can be downloaded through the image source entries and/or URLs that we provide in `url.json`. Alternatively, you may obtain the images which are pre-downloaded based on `url.json` from an [independent source](https://github.com/qqlu/Entity/tree/main/Entityv2#data). Please note that we do not own the copyright of the images. It is solely your responsibility to check the original licenses of the images before using them. Any use of the images are at your own discretion and risk.
+
+## Supplementary repo for code and models
+(Supplementary repo)(https://github.com/qqlu/Entity/tree/main/Entityv2)
 
 ## Citation
 Please cite our ICCV2023 paper if you use the EntitySeg dataset in your work.
